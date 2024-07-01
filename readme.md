@@ -12,7 +12,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  The repository aims to show different features content of a website.
 </div>
 
 <br />
@@ -56,20 +56,15 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+Using of HTML and CSS to create contents and designs with the use of codes. The project is to make a website with different features.It is also to show my knowledge unto creating website with the sue of the said technologies.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -115,4 +110,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
