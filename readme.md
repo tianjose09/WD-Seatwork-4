@@ -110,5 +110,9 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 
-|ChatenAi|Inspiration for my design and content for the website|https://i.pinimg.com/736x/7c/fa/1a/7cfa1a928c348ba599d0eeaf0ab73c67.jpg?fbclid=IwZXh0bgNhZW0CMTEAAR0QHucnC8DrM6NG7UWWpP2aVrePvucrTibDcVj0OCTKRj2OGdNdmyzZ43U_aem_6-qYz9eeTLBXFUgea80pRw|
+|ChatenAi|Inspiration for my design and content for the first website|https://i.pinimg.com/736x/7c/fa/1a/7cfa1a928c348ba599d0eeaf0ab73c67.jpg?fbclid=IwZXh0bgNhZW0CMTEAAR0QHucnC8DrM6NG7UWWpP2aVrePvucrTibDcVj0OCTKRj2OGdNdmyzZ43U_aem_6-qYz9eeTLBXFUgea80pRw|
+<br>
+|Black - White - Multipurpose Responsive HTML Landing Page|Inspiration for my design and content for the second website|https://i.pinimg.com/564x/6b/7a/45/6b7a456fd63084590e0de373d2c8c45b.jpg
+|
+
 
