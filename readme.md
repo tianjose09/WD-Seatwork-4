@@ -109,5 +109,6 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
+
 |ChatenAi|Inspiration for my design and content for the website|https://i.pinimg.com/736x/7c/fa/1a/7cfa1a928c348ba599d0eeaf0ab73c67.jpg?fbclid=IwZXh0bgNhZW0CMTEAAR0QHucnC8DrM6NG7UWWpP2aVrePvucrTibDcVj0OCTKRj2OGdNdmyzZ43U_aem_6-qYz9eeTLBXFUgea80pRw|
 
